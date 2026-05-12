@@ -13,10 +13,10 @@ Mission plan programming using Pixhawk 2.4.8 flight controller, capable of auton
 6. Buzzer
 7. Lithium Polymer Batteries (24000maH)
 8. LiPo battery charger
-9. Powwer module
+9. Power module
 10. Transmitter FS-i6S
 11. Receiver FS-iA 10B
-12. Electonic speed controllers
+12. Electronic speed controllers
 13. Brushless DC motors
 14. Propellers
 
@@ -40,10 +40,10 @@ Mission plan programming using Pixhawk 2.4.8 flight controller, capable of auton
 <img width="873" height="481" alt="Working" src="https://github.com/user-attachments/assets/a7dc17af-72bb-496a-a9a9-4aa0cdda3b1f" />
 
 ## Mission planner Workflow
-1. Parametrs like pitch, yaw, roll are configured in mission planner software.
+1. Parameters like pitch, yaw, roll are configured in mission planner software.
 2. Define waypoint coordinates in the mission planner software.
-3. Upload mission commandes to the flight controller.
-4. Waypoints navigation is implemented for autonommous flight.
+3. Upload mission commands to the flight controller.
+4. Waypoints navigation is implemented for autonomous flight.
 5. Monitor drone path and mission completion.
 
 ## Mission planner simulation
@@ -62,9 +62,20 @@ Mission plan programming using Pixhawk 2.4.8 flight controller, capable of auton
 
 ## My contributions
 - Configured waypoint navigation commands in the mission planner.
-- Planned waypoints for autonomous flight.
+- Set waypoints for autonomous flight.
 - Assisted in mission execution and testing.
 - Monitored drone movement and navigation performance.
+
+- Calibrated the Pixhawk 2.4.8 flight controller parameters before each test run 
+  to ensure safe and stable flight behaviour.
+- Set waypoint coordinates in Mission Planner software and configured pitch, 
+  yaw, and roll parameters for autonomous navigation.
+- Uploaded mission commands to the flight controller and verified the planned 
+  flight path before execution.
+- Monitored the drone's real-time navigation during test runs and flagged any 
+  deviations from the planned route to the team.
+- Worked as part of a 4-member team under faculty guidance throughout the 
+  project duration.
 
 ## Project status 
 Worked on this in my academics as a major project during my B.Tech.
