@@ -62,18 +62,10 @@ Mission plan programming using Pixhawk 2.4.8 flight controller, capable of auton
 
 ## My contributions
 - Configured waypoint navigation commands in the mission planner.
-- Set waypoints for autonomous flight.
-- Assisted in mission execution and testing.
-- Monitored drone movement and navigation performance.
-
-- Calibrated the Pixhawk 2.4.8 flight controller parameters before each test run 
-  to ensure safe and stable flight behaviour.
-- Set waypoint coordinates in Mission Planner software and configured pitch, 
-  yaw, and roll parameters for autonomous navigation.
+- Set waypoints and configured pitch, yaw, roll parameters for autonomous flight.
 - Uploaded mission commands to the flight controller and verified the planned 
   flight path before execution.
-- Monitored the drone's real-time navigation during test runs and flagged any 
-  deviations from the planned route to the team.
+- Monitored drone movement durin real-time test runs and navigation performance.
 - Worked as part of a 4-member team under faculty guidance throughout the 
   project duration.
 
