@@ -52,7 +52,6 @@ Mission plan programming using Pixhawk 2.4.8 flight controller, capable of auton
 ## Result 
 <img width="590" height="356" alt="Results" src="https://github.com/user-attachments/assets/b46b8c1a-4ad5-4152-874c-932581cbbd2c" />
 
-
 ## Future Scope 
 - Drones can be utilized for aerial photography.
 - Multi-copters can be implemented in construction industry.
@@ -61,13 +60,11 @@ Mission plan programming using Pixhawk 2.4.8 flight controller, capable of auton
 - In areas like monitoring pipeline applications, drones can be installed.
 
 ## My contributions
-- Configured waypoint navigation commands in the mission planner.
+- Calibrated the Pixhawk 2.4.8 flight controller parameters before each test run to ensure safe and stable flight behaviour.
 - Set waypoints and configured pitch, yaw, roll parameters for autonomous flight.
-- Uploaded mission commands to the flight controller and verified the planned 
-  flight path before execution.
-- Monitored drone movement durin real-time test runs and navigation performance.
-- Worked as part of a 4-member team under faculty guidance throughout the 
-  project duration.
+- Uploaded mission commands to the flight controller and verified the planned flight path before execution.
+- Monitored the drone's real-time navigation during test runs and flagged any deviations from the planned route to the team.
+- Worked as part of a 4-member team under faculty guidance throughout the project.
 
 ## Project status 
 Worked on this in my academics as a major project during my B.Tech.
